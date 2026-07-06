@@ -27,8 +27,6 @@ BLOG_GENERATOR/
 │── requirements.txt
 
 ⚙️ Installation
-git clone https://github.com/your-username/Blog_Generator.git
-cd Blog_Generator
 pip install -r requirements.txt
 
 Create a .env file:
